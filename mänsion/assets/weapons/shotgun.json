@@ -1,0 +1,28 @@
+{"frames": {
+
+"shell.png":
+{
+	"frame": {"x":0,"y":0,"w":100,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":158},
+	"sourceSize": {"w":100,"h":158}
+},
+"shotgun.png":
+{
+	"frame": {"x":100,"y":0,"w":374,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":374,"h":105},
+	"sourceSize": {"w":374,"h":105}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "shotgun.png",
+	"format": "RGBA8888",
+	"size": {"w":474,"h":158},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5849f680ac6442b46d17011b246b2d38:ba4b0df97f4a00809c5e02c50c4d4bb2:a6b2e57dc8a39ff80702c75f4f5515e6$"
+}
+}

@@ -1,0 +1,22 @@
+{"frames": {
+
+"house.png":
+{
+	"frame": {"x":0,"y":0,"w":750,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":500},
+	"sourceSize": {"w":750,"h":500}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "house.png",
+	"format": "RGBA8888",
+	"size": {"w":750,"h":500},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7739273d7d5efd871c92e4bfc5aad0f0:cacd63cd58f33775b06488c856086ad6:012e186cbf003f2e084d2fc78cfd7593$"
+}
+}
