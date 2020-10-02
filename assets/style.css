@@ -5,7 +5,7 @@
 }
 
 html {
-    height: 100%;
+    background-color: #383342;
 }
 
 header {
@@ -32,7 +32,6 @@ header {
 
 .blocks {
     background-color: #383342;
-    height: 100%;
     text-align: center;
 }
 
