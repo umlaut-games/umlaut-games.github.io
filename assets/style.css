@@ -4,6 +4,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+p, span {
+    color: #DCD7E3;
+}
+
 html {
     background-color: #383342;
     height: 100%;
@@ -57,6 +61,21 @@ footer {
     margin-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
+    padding-bottom: 40px;
+}
+
+.stage h1 {
+    text-align: center;
+}
+
+.stage p {
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+}
+
+.section {
     padding-bottom: 20px;
 }
 
@@ -81,7 +100,7 @@ footer {
 
 .hero {
     font-family: 'VT323', monospace;
-    font-size: 64px;
+    font-size: 60px;
     height: 150px;
     line-height: 75px;
     width: 300px;
