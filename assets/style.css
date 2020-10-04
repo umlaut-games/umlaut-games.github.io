@@ -12,16 +12,18 @@ html {
 h1, h2, h3, h4 {
     font-family: 'VT323', monospace;
     color: #DCD7E3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 50px;
 }
 
 header {
     background-color: #DCD7E3;
     padding-bottom: 20px;
     padding-top: 20px;
-}
-
-header h1 {
-    font-size: 50px;
 }
 
 header .logo {
@@ -52,7 +54,7 @@ footer {
 }
 
 .stage {
-    margin-top: 30px;
+    margin-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -68,7 +70,7 @@ footer {
     padding: 10px;
     display: inline-block;
     max-width: 300px;
-    margin: 30px 10px 50px;
+    margin: 20px 10px 20px;
 }
 
 .block a {
