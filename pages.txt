@@ -1,0 +1,4 @@
+{ "url": "https://umlaut.games", "changefreq": "daily", "priority": 1.0 }
+{ "url": "https://umlaut.games#about", "changefreq": "daily", "priority": 0.9 }
+{ "url": "https://umlaut.games#products", "changefreq": "daily", "priority": 0.8 }
+{ "url": "https://umlaut.games#contact", "changefreq": "daily", "priority": 0.8 }
