@@ -1,5 +1,13 @@
 {"frames": {
 
+"lightmap.png":
+{
+	"frame": {"x":395,"y":788,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
 "Maension_WIP.png":
 {
 	"frame": {"x":0,"y":0,"w":640,"h":320},
@@ -8,9 +16,17 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":320},
 	"sourceSize": {"w":640,"h":320}
 },
+"sky.png":
+{
+	"frame": {"x":0,"y":320,"w":500,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":400},
+	"sourceSize": {"w":500,"h":400}
+},
 "tree.png":
 {
-	"frame": {"x":640,"y":0,"w":443,"h":468},
+	"frame": {"x":500,"y":320,"w":443,"h":468},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":443,"h":468},
@@ -18,29 +34,19 @@
 },
 "tree_dead.png":
 {
-	"frame": {"x":1083,"y":0,"w":395,"h":474},
+	"frame": {"x":0,"y":788,"w":395,"h":474},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":395,"h":474},
 	"sourceSize": {"w":395,"h":474}
-},
-"tumblr_inline_n258q4r8c01qhwjx8.png":
-{
-	"frame": {"x":1478,"y":0,"w":500,"h":400},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":400},
-	"sourceSize": {"w":500,"h":400}
 }},
-"animations": {
-},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "maension.png",
 	"format": "RGBA8888",
-	"size": {"w":1978,"h":474},
+	"size": {"w":943,"h":1300},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:8c34d7ecc8f73001642935f398b9d838:63dd9db20d3f6aa8258b90709a00378c:457bcab35fbcb6f68f03c6c8d795be9b$"
+	"smartupdate": "$TexturePacker:SmartUpdate:dd5386cb9d49e80c33cf64357d24dbe6:a79b82e2a602ef6c909a9f08b2b5b27b:457bcab35fbcb6f68f03c6c8d795be9b$"
 }
 }
