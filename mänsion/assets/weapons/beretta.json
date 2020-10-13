@@ -2,27 +2,27 @@
 
 "beretta.png":
 {
-	"frame": {"x":0,"y":0,"w":309,"h":163},
+	"frame": {"x":0,"y":0,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":163},
-	"sourceSize": {"w":309,"h":163}
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
 },
 "shell.png":
 {
-	"frame": {"x":309,"y":0,"w":50,"h":137},
+	"frame": {"x":64,"y":0,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":137},
-	"sourceSize": {"w":50,"h":137}
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
 }},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "beretta.png",
 	"format": "RGBA8888",
-	"size": {"w":359,"h":163},
+	"size": {"w":128,"h":64},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:66c79a3f0710fc8a4591188762b20147:c79d11a0a58e6ba332afaba27a9e026e:6488fe734cde08d5725d7cea3780074b$"
+	"smartupdate": "$TexturePacker:SmartUpdate:d67c05543d5145730ebed352f78c5dea:cf34e953c7fd697a0aedbd15e3e983a9:6488fe734cde08d5725d7cea3780074b$"
 }
 }
