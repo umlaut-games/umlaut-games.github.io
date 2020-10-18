@@ -141,6 +141,14 @@ object-assign
  */
 
 /*!
+ * pixi-particles - v4.3.0
+ * Compiled Fri, 18 Sep 2020 13:47:54 UTC
+ *
+ * pixi-particles is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
  * pixi.js - v5.3.3
  * Compiled Tue, 04 Aug 2020 16:23:09 UTC
  *
@@ -198,7 +206,7 @@ and limitations under the License.
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v16.13.1
+/** @license React v16.14.0
  * react-dom.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -207,7 +215,7 @@ and limitations under the License.
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v16.13.1
+/** @license React v16.14.0
  * react.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
