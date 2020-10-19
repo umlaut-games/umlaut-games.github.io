@@ -1,6 +1,6 @@
 {"frames": {
 
-"shell.png":
+"shotgun.png":
 {
 	"frame": {"x":0,"y":0,"w":64,"h":64},
 	"rotated": false,
@@ -8,7 +8,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
 	"sourceSize": {"w":64,"h":64}
 },
-"shotgun.png":
+"shotgun_shell.png":
 {
 	"frame": {"x":64,"y":0,"w":64,"h":64},
 	"rotated": false,
@@ -23,6 +23,6 @@
 	"format": "RGBA8888",
 	"size": {"w":128,"h":64},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:37dc8ec86c647cd0fecb9adb03dfadf1:d23fc664923d74efb831cab26128dfdf:a6b2e57dc8a39ff80702c75f4f5515e6$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f230c56dc1e20aba7d90d4ad3a2c03bb:820fd193e2d6e4a104c8b6e2b19d0b9a:a6b2e57dc8a39ff80702c75f4f5515e6$"
 }
 }

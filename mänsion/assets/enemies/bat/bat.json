@@ -1,6 +1,6 @@
 {"frames": {
 
-"bat01.png":
+"bat-walk-01.png":
 {
 	"frame": {"x":0,"y":7,"w":18,"h":8},
 	"rotated": false,
@@ -8,7 +8,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":8},
 	"sourceSize": {"w":18,"h":8}
 },
-"bat02.png":
+"bat-walk-02.png":
 {
 	"frame": {"x":18,"y":15,"w":16,"h":10},
 	"rotated": false,
@@ -16,7 +16,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":10},
 	"sourceSize": {"w":16,"h":10}
 },
-"bat03.png":
+"bat-walk-03.png":
 {
 	"frame": {"x":34,"y":15,"w":12,"h":11},
 	"rotated": false,
@@ -24,7 +24,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":11},
 	"sourceSize": {"w":12,"h":11}
 },
-"bat04.png":
+"bat-walk-04.png":
 {
 	"frame": {"x":46,"y":15,"w":14,"h":11},
 	"rotated": false,
@@ -32,7 +32,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":11},
 	"sourceSize": {"w":14,"h":11}
 },
-"bat05.png":
+"bat-walk-05.png":
 {
 	"frame": {"x":0,"y":15,"w":18,"h":9},
 	"rotated": false,
@@ -40,7 +40,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":9},
 	"sourceSize": {"w":18,"h":9}
 },
-"bat06.png":
+"bat-walk-06.png":
 {
 	"frame": {"x":18,"y":7,"w":20,"h":8},
 	"rotated": false,
@@ -48,7 +48,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":8},
 	"sourceSize": {"w":20,"h":8}
 },
-"bat07.png":
+"bat-walk-07.png":
 {
 	"frame": {"x":0,"y":0,"w":21,"h":7},
 	"rotated": false,
@@ -56,7 +56,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":7},
 	"sourceSize": {"w":21,"h":7}
 },
-"bat08.png":
+"bat-walk-08.png":
 {
 	"frame": {"x":21,"y":0,"w":17,"h":7},
 	"rotated": false,
@@ -64,7 +64,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":7},
 	"sourceSize": {"w":17,"h":7}
 },
-"bat09.png":
+"bat-walk-09.png":
 {
 	"frame": {"x":38,"y":0,"w":17,"h":7},
 	"rotated": false,
@@ -72,7 +72,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":7},
 	"sourceSize": {"w":17,"h":7}
 },
-"bat10.png":
+"bat-walk-10.png":
 {
 	"frame": {"x":38,"y":7,"w":19,"h":8},
 	"rotated": false,
@@ -81,15 +81,15 @@
 	"sourceSize": {"w":19,"h":8}
 }},
 "animations": {
-	"bat": ["bat01.png","bat02.png","bat03.png","bat04.png","bat05.png","bat06.png","bat07.png","bat08.png","bat09.png","bat10.png"]
+	"bat-walk": ["bat-walk-01.png","bat-walk-02.png","bat-walk-03.png","bat-walk-04.png","bat-walk-05.png","bat-walk-06.png","bat-walk-07.png","bat-walk-08.png","bat-walk-09.png","bat-walk-10.png"]
 },
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "walk.png",
+	"image": "bat.png",
 	"format": "RGBA8888",
 	"size": {"w":60,"h":26},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:a70e8a641f37a4c52f4d9bd19562bf1a:b4dce52b7cfd93089b2e0d2169cd1490:f9e905ee92ca6262c513e44422b15402$"
+	"smartupdate": "$TexturePacker:SmartUpdate:4d19539476f31fb594f12366688aeb28:b4dce52b7cfd93089b2e0d2169cd1490:7701fa4d77073f039a4bfcba279ca81e$"
 }
 }

@@ -1,0 +1,47 @@
+{"frames": {
+
+"monster-walk-01.png":
+{
+	"frame": {"x":0,"y":72,"w":31,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":74},
+	"sourceSize": {"w":31,"h":74}
+},
+"monster-walk-02.png":
+{
+	"frame": {"x":0,"y":0,"w":30,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":72},
+	"sourceSize": {"w":30,"h":72}
+},
+"monster-walk-03.png":
+{
+	"frame": {"x":31,"y":72,"w":30,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":75},
+	"sourceSize": {"w":30,"h":75}
+},
+"monster-walk-04.png":
+{
+	"frame": {"x":30,"y":0,"w":31,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":72},
+	"sourceSize": {"w":31,"h":72}
+}},
+"animations": {
+	"monster-walk": ["monster-walk-01.png","monster-walk-02.png","monster-walk-03.png","monster-walk-04.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "monster.png",
+	"format": "RGBA8888",
+	"size": {"w":61,"h":147},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f1270b13e85888b279c3b74e8a326767:7c2e06cae7af562047e0aa2ad58ec82d:6ec6ef82eac74a14701d8066d2bc065f$"
+}
+}

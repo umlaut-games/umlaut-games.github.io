@@ -1,0 +1,136 @@
+{"frames": {
+
+"blood-01.png":
+{
+	"frame": {"x":0,"y":0,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":20},
+	"sourceSize": {"w":103,"h":20}
+},
+"blood-02.png":
+{
+	"frame": {"x":0,"y":20,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":20},
+	"sourceSize": {"w":103,"h":20}
+},
+"blood-03.png":
+{
+	"frame": {"x":0,"y":40,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":20},
+	"sourceSize": {"w":103,"h":20}
+},
+"blood-04.png":
+{
+	"frame": {"x":0,"y":60,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":20},
+	"sourceSize": {"w":103,"h":20}
+},
+"blood-05.png":
+{
+	"frame": {"x":0,"y":80,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":20},
+	"sourceSize": {"w":103,"h":20}
+},
+"blood-06.png":
+{
+	"frame": {"x":0,"y":100,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":20},
+	"sourceSize": {"w":103,"h":20}
+},
+"blood-07.png":
+{
+	"frame": {"x":0,"y":120,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":20},
+	"sourceSize": {"w":103,"h":20}
+},
+"blood-08.png":
+{
+	"frame": {"x":0,"y":140,"w":103,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":20},
+	"sourceSize": {"w":103,"h":20}
+},
+"door-01.png":
+{
+	"frame": {"x":0,"y":160,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"door-02.png":
+{
+	"frame": {"x":50,"y":160,"w":50,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":47},
+	"sourceSize": {"w":50,"h":47}
+},
+"door-03.png":
+{
+	"frame": {"x":0,"y":210,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"door-04.png":
+{
+	"frame": {"x":50,"y":210,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"flashlight.png":
+{
+	"frame": {"x":0,"y":260,"w":128,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":64},
+	"sourceSize": {"w":128,"h":64}
+},
+"lightmap.png":
+{
+	"frame": {"x":0,"y":324,"w":51,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":51},
+	"sourceSize": {"w":51,"h":51}
+},
+"spark.png":
+{
+	"frame": {"x":51,"y":324,"w":17,"h":5},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":5},
+	"sourceSize": {"w":17,"h":5}
+}},
+"animations": {
+	"blood": ["blood-01.png","blood-02.png","blood-03.png","blood-04.png","blood-05.png","blood-06.png","blood-07.png","blood-08.png"],
+	"door": ["door-01.png","door-02.png","door-03.png","door-04.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "things.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":375},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f9f7ad75d6d02bf72ab7a00b54c4ee61:0b8b54db6e4bc2cfdc4648abab312906:a7ffc03d719097afff7952cb633fb6e1$"
+}
+}
