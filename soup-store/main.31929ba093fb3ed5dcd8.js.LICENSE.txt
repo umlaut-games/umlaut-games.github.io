@@ -13,14 +13,6 @@ object-assign
  */
 
 /*!
- * @pixi/app - v6.1.3
- * Compiled Mon, 13 Sep 2021 15:29:31 UTC
- *
- * @pixi/app is licensed under the MIT License.
- * http://www.opensource.org/licenses/mit-license
- */
-
-/*!
  * @pixi/constants - v6.1.3
  * Compiled Mon, 13 Sep 2021 15:29:31 UTC
  *
@@ -57,6 +49,14 @@ object-assign
  * Compiled Mon, 13 Sep 2021 15:29:31 UTC
  *
  * @pixi/filter-displacement is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
+ * @pixi/loaders - v6.1.3
+ * Compiled Mon, 13 Sep 2021 15:29:31 UTC
+ *
+ * @pixi/loaders is licensed under the MIT License.
  * http://www.opensource.org/licenses/mit-license
  */
 
@@ -109,6 +109,14 @@ object-assign
  */
 
 /*!
+ * @pixi/runner - v6.1.3
+ * Compiled Mon, 13 Sep 2021 15:29:31 UTC
+ *
+ * @pixi/runner is licensed under the MIT License.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/*!
  * @pixi/ticker - v6.1.3
  * Compiled Mon, 13 Sep 2021 15:29:31 UTC
  *
@@ -117,10 +125,10 @@ object-assign
  */
 
 /*!
- * @pixi/utils - v6.1.3
- * Compiled Mon, 13 Sep 2021 15:29:31 UTC
+ * pixi-particles - v4.3.1
+ * Compiled Wed, 09 Jun 2021 13:12:54 UTC
  *
- * @pixi/utils is licensed under the MIT License.
+ * pixi-particles is licensed under the MIT License.
  * http://www.opensource.org/licenses/mit-license
  */
 
