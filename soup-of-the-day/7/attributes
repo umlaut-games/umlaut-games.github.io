@@ -1,4 +1,5 @@
 {
   "POT_COLOR": "85",
-  "TOPPING_COLOR": "blue"
+  "TOPPING_COLOR": "red",
+  "BGM_SPEED": "red"
 }
