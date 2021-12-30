@@ -1,0 +1,161 @@
+{"frames": {
+
+"arm.png":
+{
+	"frame": {"x":0,"y":0,"w":22,"h":5},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":5},
+	"sourceSize": {"w":22,"h":5}
+},
+"idle-0.png":
+{
+	"frame": {"x":0,"y":5,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-1.png":
+{
+	"frame": {"x":0,"y":69,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-2.png":
+{
+	"frame": {"x":0,"y":133,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-3.png":
+{
+	"frame": {"x":0,"y":197,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-4.png":
+{
+	"frame": {"x":0,"y":261,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-5.png":
+{
+	"frame": {"x":0,"y":325,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-handgun-0.png":
+{
+	"frame": {"x":0,"y":389,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-handgun-1.png":
+{
+	"frame": {"x":0,"y":453,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-handgun-2.png":
+{
+	"frame": {"x":0,"y":517,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-handgun-3.png":
+{
+	"frame": {"x":0,"y":581,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-handgun-4.png":
+{
+	"frame": {"x":0,"y":645,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-rifle-0.png":
+{
+	"frame": {"x":0,"y":709,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-rifle-1.png":
+{
+	"frame": {"x":0,"y":773,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-rifle-2.png":
+{
+	"frame": {"x":0,"y":837,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-rifle-3.png":
+{
+	"frame": {"x":0,"y":901,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-rifle-4.png":
+{
+	"frame": {"x":0,"y":965,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"idle-rifle-5.png":
+{
+	"frame": {"x":0,"y":1029,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}},
+"animations": {
+	"idle": ["idle-0.png","idle-1.png","idle-2.png","idle-3.png","idle-4.png","idle-5.png"],
+	"idle-handgun": ["idle-handgun-0.png","idle-handgun-1.png","idle-handgun-2.png","idle-handgun-3.png","idle-handgun-4.png"],
+	"idle-rifle": ["idle-rifle-0.png","idle-rifle-1.png","idle-rifle-2.png","idle-rifle-3.png","idle-rifle-4.png","idle-rifle-5.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "taro.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":1093},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8c03e2dcd8842974ee75cc2714cc3474:8176c2aff35dc66983b81b1afacb56d6:b9c0ca5ac975e24d7bb355648d8b1b37$"
+}
+}
